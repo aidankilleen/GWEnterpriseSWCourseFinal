@@ -5,7 +5,8 @@ function App() {
 
     const [users, setUsers] = useState([]);
 
-    const url = "http://localhost:8080/api/users";
+    //const url = "http://localhost:8080/api/users";
+    const url = "/api/users";
     useEffect(() => {
         fetch(url)
             .then(response => response.json())
