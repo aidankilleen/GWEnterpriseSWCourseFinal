@@ -19,6 +19,7 @@ function App() {
     <>
       <h1>React Frontend</h1>
 
+        <h2>Did this work</h2>
         <table>
             <thead>
             <tr>
