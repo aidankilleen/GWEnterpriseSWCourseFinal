@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <h1>React Frontend</h1>
+      <h1>React Frontend!</h1>
 
         <h2>Did this work</h2>
         <table>
